@@ -1,0 +1,20 @@
+TEXT_MONEY     = "จำนวนเงิน";
+TEXT_PLAY      = "เล่น";
+TEXT_BET       = "เดิมพัน";
+TEXT_COIN      = "เยรู";
+TEXT_MAX_BET   = "หมดหน้าตัก";
+TEXT_INFO      = "ข้อมูล";
+TEXT_LINES     = "เส้น";
+TEXT_SPIN      = "หมุน";
+TEXT_WIN       = "รับไป";
+TEXT_HELP_WILD = "สัญลักษณ์นี้เป็น JOLLY ที่สามารถแทนที่สัญลักษณ์อื่น ๆ เพื่อสร้างคอมโบ";
+TEXT_CREDITS_DEVELOPED = "พัฒนาโดย";
+TEXT_CURRENCY = " YR";
+TEXT_PRELOADER_CONTINUE = "มาเริ่มกัน";
+
+TEXT_SHARE_IMAGE = "200x200.jpg";
+TEXT_SHARE_TITLE = "ยินดีด้วย!";
+TEXT_SHARE_MSG1 = "คุณรวบรวม <strong>";
+TEXT_SHARE_MSG2 = " คะแนน</strong>!<br><br>แชร์คะแนนกับเพื่อน";
+TEXT_SHARE_SHARE1 = "คะแนนของคุณ ";
+TEXT_SHARE_SHARE2 = " คะแนน! คุณทำได้ดีกว่านี้ไหม";
